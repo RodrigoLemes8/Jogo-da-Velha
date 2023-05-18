@@ -1,1 +1,3 @@
-Meu Primeiro Projeto no GITHUB
+Meu Primeiro Projeto no GITHUB!
+
+Uma calculadora bem simples.
